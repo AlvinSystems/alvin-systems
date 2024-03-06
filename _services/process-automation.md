@@ -1,10 +1,10 @@
 ---
-title: "Wealth Management"
-date: 2019-06-18T12:33:46+10:00
-weight: 8
+title: "Process Automation"
+date: 2019-05-18T12:33:46+10:00
+weight: 7
 ---
 
-Lorem4 markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
+Lorem1 markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
 Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
