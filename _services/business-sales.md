@@ -1,5 +1,6 @@
 ---
-title: "Business Sales"
+title: "System Applications"
+logo: "images/customers/bellwether-coffee.png"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
