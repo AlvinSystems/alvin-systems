@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Alvin is a team of software developers and designers. We work on-site at our two offices in US and Ukraine.
+Alvin is a team of software developers and designers.
 
 Our team is built with motivated individuals, who acquired deep knowledge on how software is used by the end users, what features provide the most value, and all it takes to build it.
 
