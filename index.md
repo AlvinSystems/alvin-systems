@@ -10,4 +10,4 @@ show_call_box: true
 
 # What it takes to build a successful software product?
 
-Start with a good people. Make something customers actually want. Spend as little money as possible.
+Start with good people. Build something customers want. Spend as little money as possible.
